@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5jJXJ/htOg=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\nabil\\Code\\C#\\raylib-cs\\First-good-game-csharp\\First-good-game-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
